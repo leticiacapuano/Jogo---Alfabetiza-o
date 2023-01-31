@@ -1,1 +1,3 @@
-# Jogo---Alfabetizacao
+# Jogo-Alfabetizacao
+## Status
+Em desenvolvimento
